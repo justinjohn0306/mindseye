@@ -79,6 +79,7 @@ sys.path.append(".")
 sys.path.append("./taming-transformers")
 sys.path.append("./disco-diffusion")
 sys.path.append("./AdaBins")
+sys.path.append('./pytorch3d-lite')
 # sys.path.append('./pytorch3d')
 
 import os
