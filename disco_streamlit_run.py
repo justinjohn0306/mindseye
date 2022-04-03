@@ -153,7 +153,7 @@ from midas.midas_net import MidasNet
 from midas.midas_net_custom import MidasNet_small
 from midas.transforms import Resize, NormalizeImage, PrepareForNet
 import torch
-import pytorch3d.transforms as p3dT
+import py3d_tools as p3dT
 import disco_xform_utils as dxf
 import argparse
 
